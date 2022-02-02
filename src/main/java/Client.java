@@ -27,5 +27,4 @@ public class Client {
       System.out.println(flightStream.getRoot().getFieldVectors());
     }
   }
-
 }
